@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AutoTrade-react1/static/css/main.93890528.css",
+    "main.js": "/AutoTrade-react1/static/js/main.a2ba63f0.js",
+    "static/media/Artboard 1.png": "/AutoTrade-react1/static/media/Artboard 1.aa96d4167db76b77e67e.png",
+    "static/media/Robot.svg": "/AutoTrade-react1/static/media/Robot.7d68010a5414e6a84596e00a5966a2c8.svg",
+    "index.html": "/AutoTrade-react1/index.html",
+    "main.93890528.css.map": "/AutoTrade-react1/static/css/main.93890528.css.map",
+    "main.a2ba63f0.js.map": "/AutoTrade-react1/static/js/main.a2ba63f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93890528.css",
+    "static/js/main.a2ba63f0.js"
+  ]
+}
